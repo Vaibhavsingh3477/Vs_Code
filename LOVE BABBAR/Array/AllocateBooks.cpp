@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 bool isPossible(vector<int> arr, int n, int m, int mid)
 {
     int studentCount = 1;
