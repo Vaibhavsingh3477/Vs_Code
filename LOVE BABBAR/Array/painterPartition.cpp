@@ -26,7 +26,7 @@ int findLargestMinDistance(vector<int> &boards, int k)
     int end=sum;
     if(k>n){
         return -1;
-    }
+    } 
     while(start<=end){
         int mid=start+(end-start)/2;
         if(isPossible(boards,k,n,mid)){
