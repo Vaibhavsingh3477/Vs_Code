@@ -55,8 +55,15 @@ int main()
 
     // for using this you , you have to make the original array again
     //  or use alternate array once not reverse array.
-    alternateReverse(arr, size);
-    cout << "Print array After Alt_Revers" << endl;
+
+
+    
+    // alternateReverse(arr, size);
+    // cout << "Print array After Alt_Revers" << endl;
+    // printArray(arr, size);
+
+    reverseArray(arr,size);
+     cout << "Print array After Reverse" << endl;
     printArray(arr, size);
     cout << endl;
 
