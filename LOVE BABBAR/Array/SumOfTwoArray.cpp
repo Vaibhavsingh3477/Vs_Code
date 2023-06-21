@@ -4,7 +4,7 @@ vector<int> reverse(vector<int> v)
     int e = v.size() - 1;
     while (s <= e)
     {
-        swap(v[s++f], v[e--]);
+        swap(v[s++], v[e--]);
     }
 }
 
