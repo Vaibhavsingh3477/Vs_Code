@@ -93,29 +93,7 @@ int main()
 
     // cout << "Palindrome or Not " << checkPalindrome(name, len);
 
-    char ch[10];
-    int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-
-    cout << "Enter Character Array :-> ";
-
-    for (int i = 0; i < 10; i++)
-    {
-        cin >> ch[i];
-    }
-
-    cout << "Printing Character Array :-> ";
-
-    for (int i = 0; i < 10; i++)
-    {
-        cout << ch[i];
-    }
-
-    cout << "\nPrinting Array :->" << endl;
-
-    for (int i = 0; i < 10; i++)
-    {
-        cout << arr[i] << " ";
-    }
+    // Waiting for completing the DSA.
 
     return 0;
 }
