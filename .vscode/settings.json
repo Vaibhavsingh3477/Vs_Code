@@ -73,5 +73,9 @@
         "isLuckyPair.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
-    "liveServer.settings.multiRootWorkspaceName": "Coding"
+    "liveServer.settings.multiRootWorkspaceName": "Coding",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
