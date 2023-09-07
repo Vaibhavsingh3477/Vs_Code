@@ -1,4 +1,6 @@
 print("Vaibhav Singh 2100910100180")
+# best case O(1)
+# worst case O(logn)
 
 def binary_search(arr, low, high, x):
 	if high >= low:

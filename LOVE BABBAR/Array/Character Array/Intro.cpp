@@ -93,7 +93,7 @@ int main()
 
     // cout << "Palindrome or Not " << checkPalindrome(name, len);
 
-    // Waiting for completing the DSA.
+    // Waiting for completing the DSA.vector<int> &stall, int k
 
     return 0;
 }
