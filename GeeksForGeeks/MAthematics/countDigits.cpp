@@ -17,8 +17,8 @@ int countDigits(int n)
 int main()
 {
     int n;
-    cout << " Enter a Number PLZ-->";
+    cout << "Enter a Number PLZ-->";
     cin >> n;
-    cout << "There are {" << countDigits(n) << "}Digits in " << n;
+    cout << "There are (" << countDigits(n) << ") Digits in " << n;
     return 0;
 }
