@@ -2,6 +2,8 @@
 using namespace std;
 int trailCount(int n)
 {
+    // Naive Approach -->
+
     // int fact = 1;
     // for (int i = 2; i <= n; i++)
     // {
@@ -16,6 +18,8 @@ int trailCount(int n)
 
 
     //Efficient Method-->
+
+    
     int res=0;
     for(int i = 5;i<=n;i=i*5)
     {

@@ -14,7 +14,7 @@ int checkGCD(int a, int b)
 }
 int main() 
 {
-    int a, b;
+    int a, b; 
     cout << "Enter 1st Num-->";
     cin >> a;
     cout << "Enter 2nd Num-->";

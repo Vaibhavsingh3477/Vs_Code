@@ -3,6 +3,7 @@ using namespace std;
 int gcd(int a, int b)
 {
     //Method 1
+    //Euclid Algo.
 
 
     // while (a != b)

@@ -16,17 +16,17 @@ int isPal(int n)
     // return rev==n;
     if (rev == n)
     {
-        printf("Its Palindrome--");
+        printf("Its Palindrome -> ");
     }
     else
     {
-        printf("Not Palindrome--");
+        printf("Not Palindrome -> ");
     }
     return rev;
 }
 int main()
 {
-    int number = 4554;
+    int number = 12321;
     cout << isPal(number) << endl;
     return 0;
 }
